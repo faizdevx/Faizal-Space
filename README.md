@@ -3,7 +3,7 @@
 Welcome to **FaizalSpace**, my personal portfolio that reflects who I am as a developer, creator, and aesthetic storyteller. Built with clean HTML and TailwindCSS, this responsive website showcases my featured projects, creative media, and professional identity.
 
 ## 🔥 Live Preview
-🌍 [Visit FaizalSpace](https://your-live-link.com) — *(update with actual link if hosted)*
+🌍 [Visit FaizalSpace]([https://your-live-link.com](https://faizdevx.github.io/Faizal-Space/)) — *(update with actual link if hosted)*
 
 ---
 
